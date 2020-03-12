@@ -35,7 +35,7 @@ if(isset($_POST['save'])){
         <h1 class="display-4" style="color: #fff"><i class="fa fa-lock"></i><?php echo $row["transname"] ?></h1>
         <p class="lead">  <span class="badge badge-primary">YOUR TRACK CODE : <?php echo $row["track_id"] ?> </span> <span class="badge badge-info">PRICE: $<?php echo $row["price"] ?></span>
           <span class="badge badge-secondary">BALANCE:  <i class="fa fa-btc" aria-hidden="true"></i>  0 - Pending funds from customer</span>   </p><br>
-          <p class="lead add-funds"><i class="fa fa-plus-circle" aria-hidden="true"></i> ADD FUNDS : <button class="btn btn-primary btn-lg">1CGU4v6S6cKEgWFtoUis9Tjj9uUCNiWK73</button>  </p> <br>Current bitcoin balance : 0.00000000<p class="text-warning" style="margin-top:10px;"><small>You must to send an total of $<?php echo $row["price"] ?> = <?php $url = "https://blockchain.info/stats?format=json";
+          <p class="lead add-funds"><i class="fa fa-plus-circle" aria-hidden="true"></i> ADD FUNDS : <a href="addfund.php"><button class="btn btn-primary btn-lg">1CGU4v6S6cKEgWFtoUis9Tjj9uUCNiWK73</button></a>  </p> <br>Current bitcoin balance : 0.00000000<p class="text-warning" style="margin-top:10px;"><small>You must to send an total of $<?php echo $row["price"] ?> = <?php $url = "https://blockchain.info/stats?format=json";
           $stats = json_decode(file_get_contents($url), true);
           $btcValue = $stats['market_price_usd'];
           $usdCost =   $row["price"];

@@ -80,8 +80,8 @@
 						<div class="services-2 noborder-left text-center ftco-animate">
 							<div class="icon mt-2 d-flex justify-content-center align-items-center"><span class="flaticon-analysis"></span></div>
 							<div class="text media-body">
-								<h3>Business Analysis</h3>
-								<p>Far far away, behind the word mountains, far from the countries Vokalia.</p>
+								<h3>Machinery Escrow</h3>
+								<p>Buy and Sell Machinery Equipments Safely using Global escrow service. Get started with our safe escrow platform.</p>
 							</div>
 						</div>
 					</div>
@@ -89,8 +89,8 @@
 						<div class="services-2 text-center ftco-animate">
 							<div class="icon mt-2 d-flex justify-content-center align-items-center"><span class="flaticon-business"></span></div>
 							<div class="text media-body">
-								<h3>Business Consulting</h3>
-								<p>Far far away, behind the word mountains, far from the countries Vokalia.</p>
+								<h3>Vehicle Escrow</h3>
+								<p>Buying or selling a vehicle is a significant event and buyers and sellers alike want assurance that such a transaction will go smoothly.</p>
 							</div>
 						</div>
 					</div>
@@ -98,8 +98,8 @@
 						<div class="services-2 text-center ftco-animate">
 							<div class="icon mt-2 d-flex justify-content-center align-items-center"><span class="flaticon-insurance"></span></div>
 							<div class="text media-body">
-								<h3>Business Insurance</h3>
-								<p>Far far away, behind the word mountains, far from the countries Vokalia.</p>
+								<h3>Jewelry Escrow</h3>
+								<p>Buying and selling expensive jewelry online can be difficult, as it is extremely difficult to spot a scam.</p>
 							</div>
 						</div>
 					</div>
@@ -107,8 +107,8 @@
 						<div class="services-2 noborder-left noborder-bottom text-center ftco-animate">
 							<div class="icon mt-2 d-flex justify-content-center align-items-center"><span class="flaticon-money"></span></div>
 							<div class="text media-body">
-								<h3>Global Investigation</h3>
-								<p>Far far away, behind the word mountains, far from the countries Vokalia.</p>
+								<h3>Domain Names</h3>
+								<p>Global Escrow Service is the dominant payment method for the buying & selling of domain names, with transactions including refseek, quadmedical, kadaza, shop.com and more.</p>
 							</div>
 						</div>
 					</div>
@@ -116,8 +116,8 @@
 						<div class="services-2 text-center noborder-bottom ftco-animate">
 							<div class="icon mt-2 d-flex justify-content-center align-items-center"><span class="flaticon-rating"></span></div>
 							<div class="text media-body">
-								<h3>Audit &amp; Evaluation</h3>
-								<p>Far far away, behind the word mountains, far from the countries Vokalia.</p>
+								<h3>Boat & Bike Escrow Services</h3>
+								<p>Buying or selling a boats and bikes, whether online or in person, is a significant financial event and buyers and sellers.</p>
 							</div>
 						</div>
 					</div>
@@ -125,8 +125,8 @@
 						<div class="services-2 text-center noborder-bottom ftco-animate">
 							<div class="icon mt-2 d-flex justify-content-center align-items-center"><span class="flaticon-search-engine"></span></div>
 							<div class="text media-body">
-								<h3>Marketing Strategy</h3>
-								<p>Far far away, behind the word mountains, far from the countries Vokalia.</p>
+								<h3>General Merchandise</h3>
+								<p>From computer hardware to luxury goods, you can safely and easily buy and sell merchandise all over the world with the protection of Global Escrow Service.</p>
 							</div>
 						</div>
 					</div>
